@@ -1,0 +1,7 @@
+# Temporary Chrome profile data
+.chrome-profile/
+
+# Temporary lock files
+.~lock.*
+*.tmp
+.DS_Store
